@@ -1,0 +1,6 @@
+you were hire work in team that is build new web search engin
+without much experi on subject count onli with small team
+your team lead decid take small step
+anoth teammat is build crawler which produc file with web link
+on other hand you will be respons check such text file with web link
+download organ file in local unix filesystem

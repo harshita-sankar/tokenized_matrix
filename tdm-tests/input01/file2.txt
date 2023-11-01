@@ -1,0 +1,4 @@
+bike 1
+car 7
+hous 2
+scooter 1

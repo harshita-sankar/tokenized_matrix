@@ -1,0 +1,13 @@
+eternal_sunshine.txt
+hey_jude.txt
+inglorious_basterds.txt
+juliette_binoche.txt
+kate_winslet.txt
+pulp_fiction.txt
+quentin_tarantino.txt
+satisfaction.txt
+the_beatles.txt
+the_rolling_stones.txt
+the_royal_tenenbaums.txt
+three_colours_blue.txt
+wes_anderson.txt
